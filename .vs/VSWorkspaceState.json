@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\mysite",
-    "\\myvenv\\Include",
-    "\\myvenv\\Lib",
-    "\\myvenv\\Lib\\site-packages",
-    "\\myvenv\\Scripts"
+    "\\blog",
+    "\\mysite"
   ],
-  "SelectedNode": "\\manage.py",
+  "SelectedNode": "\\mysite\\urls.py",
   "PreviewInSolutionExplorer": false
 }
